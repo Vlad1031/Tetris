@@ -1,0 +1,14 @@
+/home/vskotselias/Tetris/build/CMakeFiles/rebuild_cache.dir
+/home/vskotselias/Tetris/build/CMakeFiles/edit_cache.dir
+/home/vskotselias/Tetris/build/src/CMakeFiles/rebuild_cache.dir
+/home/vskotselias/Tetris/build/src/CMakeFiles/edit_cache.dir
+/home/vskotselias/Tetris/build/src/CMakeFiles/Tetris.dir
+/home/vskotselias/Tetris/build/src/CMakeFiles/Tetris_autogen.dir
+/home/vskotselias/Tetris/build/src/model/CMakeFiles/rebuild_cache.dir
+/home/vskotselias/Tetris/build/src/model/CMakeFiles/edit_cache.dir
+/home/vskotselias/Tetris/build/src/model/CMakeFiles/model.dir
+/home/vskotselias/Tetris/build/src/model/CMakeFiles/model_autogen.dir
+/home/vskotselias/Tetris/build/src/ui/CMakeFiles/rebuild_cache.dir
+/home/vskotselias/Tetris/build/src/ui/CMakeFiles/edit_cache.dir
+/home/vskotselias/Tetris/build/src/ui/CMakeFiles/_ui.dir
+/home/vskotselias/Tetris/build/src/ui/CMakeFiles/_ui_autogen.dir

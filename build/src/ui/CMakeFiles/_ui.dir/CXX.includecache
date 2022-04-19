@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vskotselias/Tetris/build/src/ui/_ui_autogen/EWIEGA46WW/qrc_qml.cpp
+
+/home/vskotselias/Tetris/build/src/ui/_ui_autogen/mocs_compilation.cpp
+

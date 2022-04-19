@@ -1,0 +1,5 @@
+# Hashes of file build rules.
+ac01e858f5fdde22661bb56ffe8a2738 src/CMakeFiles/Tetris_autogen
+1d08aa7202a6f2d63e1efcba1d4ffc18 src/model/CMakeFiles/model_autogen
+93f4135e759b0244a25d38670e881809 src/ui/CMakeFiles/_ui_autogen
+1914578ec071818505a3956493513631 src/ui/_ui_autogen/EWIEGA46WW/qrc_qml.cpp

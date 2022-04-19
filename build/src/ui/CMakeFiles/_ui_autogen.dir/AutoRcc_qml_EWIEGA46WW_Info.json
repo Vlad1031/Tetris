@@ -1,0 +1,23 @@
+{
+	"BUILD_DIR" : "/home/vskotselias/Tetris/build/src/ui/_ui_autogen",
+	"CMAKE_BINARY_DIR" : "/home/vskotselias/Tetris/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/vskotselias/Tetris/build/src/ui",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/vskotselias/Tetris/src/ui",
+	"CMAKE_SOURCE_DIR" : "/home/vskotselias/Tetris",
+	"INCLUDE_DIR" : "/home/vskotselias/Tetris/build/src/ui/_ui_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/vskotselias/Tetris/src/ui/ButtonRestart.qml",
+		"/home/vskotselias/Tetris/src/ui/main.qml"
+	],
+	"LOCK_FILE" : "/home/vskotselias/Tetris/build/src/ui/CMakeFiles/_ui_autogen.dir/AutoRcc_qml_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "qml" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_qml.cpp",
+	"RCC_EXECUTABLE" : "/home/vskotselias/Qt/5.15.2/gcc_64/bin/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/vskotselias/Tetris/build/src/ui/CMakeFiles/_ui_autogen.dir/AutoRcc_qml_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/vskotselias/Tetris/src/ui/qml.qrc",
+	"VERBOSITY" : 0
+}

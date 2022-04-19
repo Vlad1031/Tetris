@@ -1,0 +1,2 @@
+/usr/bin/ar qc lib_ui.a  CMakeFiles/_ui.dir/_ui_autogen/mocs_compilation.cpp.o CMakeFiles/_ui.dir/_ui_autogen/EWIEGA46WW/qrc_qml.cpp.o
+/usr/bin/ranlib lib_ui.a

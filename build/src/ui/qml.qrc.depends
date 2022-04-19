@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ButtonRestart.qml</file>
+        <file>main.qml</file>
+    </qresource>
+</RCC>
